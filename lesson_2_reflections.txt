@@ -11,3 +11,7 @@ saved. The staging area offers flexability and the safety of not making hard cha
 How can you use the staging area to make sure you have one commit per logical change?
 You can use the comand gitt diff to compare the working area to the staging area.  The staging area is where 
 changes are kept before being commited. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When adding new features to a project, adding branches would be helpful to keep the stable version seperate from 
+the work in progress versions. 
