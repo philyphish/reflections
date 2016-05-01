@@ -7,3 +7,7 @@ How is the staging area different from the working directory and the repository?
 
 The staging area is where the files go into a pending like status and the working directory is were the files area
 saved. The staging area offers flexability and the safety of not making hard changes to your files.
+
+How can you use the staging area to make sure you have one commit per logical change?
+You can use the comand gitt diff to compare the working area to the staging area.  The staging area is where 
+changes are kept before being commited. 
