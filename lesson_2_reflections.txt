@@ -15,3 +15,6 @@ changes are kept before being commited.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 When adding new features to a project, adding branches would be helpful to keep the stable version seperate from 
 the work in progress versions. 
+
+How do the diagrams help you visualize the branch structure?
+The diagrams help understand the detached head message and what effect it has on the branch.
