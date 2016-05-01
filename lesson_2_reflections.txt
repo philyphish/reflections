@@ -18,3 +18,7 @@ the work in progress versions.
 
 How do the diagrams help you visualize the branch structure?
 The diagrams help understand the detached head message and what effect it has on the branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging the two branches combines the files and commits based on the time they were added. We represent it in a 
+diagram to make it easier to fallow and understand. 
