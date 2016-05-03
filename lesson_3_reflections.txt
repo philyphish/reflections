@@ -17,3 +17,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 You could colaborate using email, but this wouldn't be very efficiant. I would be a lot easier. Simply send an email. However, I would be very time
 consumming and tracking changes would be nearly impossible, especialy with large projects. 
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Use a second branch when you're adding new features to a project. The benifits of this is that you can keep your original, master intact and funtioning
+as you work.
