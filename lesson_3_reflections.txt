@@ -12,3 +12,8 @@ master head.
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 Incase you're offline and need to work. Once you're reconnected, you can push your commits to the cloud.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+You could colaborate using email, but this wouldn't be very efficiant. I would be a lot easier. Simply send an email. However, I would be very time
+consumming and tracking changes would be nearly impossible, especialy with large projects. 
